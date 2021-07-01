@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BearsOnMars
-- 👀 I’m interested in Algorithmic Trading in Financial Markets
-- 🌱 I’m currently learning how to design and run profitable algorithms on Dow Jones Industrial Average Index (Dow 30)
+- 👀 I’m interested in Algorithmic Trading and Machine Learning applications in Financial Markets
+- 🌱 I’m currently learning how to design and run profitable algorithms on various Financial assets
 - 💞️ I’m looking to collaborate on quantitative strategies
 - 📫 How to reach me  www.linkedin.com/in/anuj-k-108108108
 
