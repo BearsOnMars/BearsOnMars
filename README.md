@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BearsOnMars
 - 👀 I’m interested in exploring Machine Learning applications 
 - 🌱 I’m currently learning how to design and run profitable algorithms on various Financial assets
-- 💞️ I’m looking to collaborate on quantitative strategies in Financial Markets
+- 💞️ I’m looking to collaborate on quantitative strategies for trading financial derivatives
 - 📫 I'm reachable on [LinkedIn](https://www.linkedin.com/in/anuj-k-108108108)
 
 <!---
